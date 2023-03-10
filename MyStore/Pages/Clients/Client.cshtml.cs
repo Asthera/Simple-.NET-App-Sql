@@ -13,8 +13,10 @@ namespace MyStore.Pages.Clients
         public List<ClientInfo> listClients = new List<ClientInfo>();
         public static MySqlConnection connection;
 
-        public string user = "root";
-        public string password = "lovemother79";
+        public string username = "";
+        public string password = "";
+
+        public string database = "";
 
         public void OnGet()
         {
@@ -22,8 +24,8 @@ namespace MyStore.Pages.Clients
 
             try
             {
-                connection.ConnectionString = "server = localhost; User Id = " + user + "; " +
-                    "Persist Security Info = True; database = PAK; Password = " + password;
+                connection.ConnectionString = "server = localhost; User Id = " + username + "; " +
+                    "Persist Security Info = True; database = " + database + "; Password = " + password;
                 connection.Open();
 
                 String sql = "SELECT * FROM clients";
