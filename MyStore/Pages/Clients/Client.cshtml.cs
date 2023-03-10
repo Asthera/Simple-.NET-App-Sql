@@ -15,7 +15,6 @@ namespace MyStore.Pages.Clients
 
         public string username = "";
         public string password = "";
-
         public string database = "";
 
         public void OnGet()
