@@ -8,9 +8,9 @@ For connecting to your db server just change values below [in this file](https:/
 
 ```c#
 
-        public string username = "";
-        public string password = "";
-        public string database = "";
+public string username = "";
+public string password = "";
+public string database = "";
 
 ```
 
