@@ -15,16 +15,16 @@ For connecting to your db server just change values below [in this file](https:/
 
 - Next you can click on **Clients** on navigation bar, you will redirected to page with empty table(if dont connect to db, or it empty).
 
-  > ![](/client_page.png)
+  > <img src="client_page.png" alt= “” width="530" height="280">
 
 - If you click **New Client** button, you will redirected to page where you must fill up form to add Client. After submitting you will return to page with table.
 
-  > ![](/form_page.png)
+  > <img src="form_page.png" alt= “” width="530" height="280">
 
 - Also you can **Edit** or **Delete** Clients through the corresponding buttons.
   > ![](/buttons.png)
 - For **Edit** button.
-  > ![](/edit_button.png)
+  > <img src="edit_page.png" alt= “” width="530" height="280">
 
 ## Summary
 
