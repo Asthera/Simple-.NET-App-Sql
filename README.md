@@ -11,7 +11,7 @@ For connecting to your db server just change values below [in this file](https:/
 
 - From starting app you are getting into main(default) page.
 
-  > <img src="main_page.png" alt= “” width="200" height="150">
+  > <img src="main_page.png" alt= “” width="530" height="280">
 
 - Next you can click on **Clients** on navigation bar, you will redirected to page with empty table(if dont connect to db, or it empty).
 
