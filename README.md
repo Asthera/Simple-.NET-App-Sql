@@ -22,9 +22,9 @@ For connecting to your db server just change values below [in this file](https:/
   > <img src="form_page.png" alt= “” width="530" height="280">
 
 - Also you can **Edit** or **Delete** Clients through the corresponding buttons.
-  > ![](/buttons.png)
+  > <img src="buttons.png" alt= “” width="590" height="50">
 - For **Edit** button.
-  > <img src="edit_page.png" alt= “” width="530" height="280">
+  > <img src="edit_button.png" alt= “” width="530" height="280">
 
 ## Summary
 
